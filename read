@@ -1,0 +1,20 @@
+import torch
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
+import logging
+import re
+
+# ... (restante do código)
+
+class JavaChatbot:
+    def __init__(self):
+        # ... (inicialização do modelo, tokenizer e outros componentes)
+
+    def generate_response(self, question, context):
+        # ... (lógica de geração da resposta)
+
+    def fine_tune(self, data):
+        # ... (lógica de treinamento fino)
+
+if __name__ == "__main__":
+    chatbot = JavaChatbot()
+    # ... (interação com o usuário, loop principal)
