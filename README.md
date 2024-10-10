@@ -23,7 +23,7 @@ IA Response é um projeto de inteligência artificial que visa gerar respostas a
 - Bibliotecas necessárias:
   ```bash
   pip install flask transformers googletrans PyPDF2 torch
-## Passos para Clonar o Repositório
+## Passos para Clonar o Repositório de Instalação da GPT-2 Projetado com média 124m a 1,5 bilhão Parâmetros
 
 ### 1. Instale o Git LFS:
 
